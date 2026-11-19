@@ -35,7 +35,7 @@ $$
 
 1. Calculează discriminantul:
    $$
-   \Delta=b^2-4ac
+   Delta=b^2-4ac
    $$
 2. Evaluează valoarea discriminantului.
 3. Utilizează comparații numerice pentru identificarea cazului corespunzător:
@@ -63,7 +63,7 @@ $$
 Pentru `a = 1`, `b = 1`, `c = 1`:
 
 $$
-\Delta=1^2-4\cdot1\cdot1=-3
+Delta=1^2-4\cdot1\cdot1=-3
 $$
 
 Rezultatul este reprezentat de două rădăcini complexe conjugate:
@@ -94,7 +94,7 @@ Aplicația utilizează un subVI pentru calculul discriminantului, apoi prelucrea
 Discriminantul:
 
 $$
-\Delta=b^2-4ac
+Delta=b^2-4ac
 $$
 
 Relațiile lui Viète:
@@ -419,7 +419,7 @@ $$
 1. Calculates the discriminant:
 
    $$
-   \Delta=b^2-4ac
+   Delta=b^2-4ac
    $$
 
 2. Evaluates the discriminant value.
@@ -448,7 +448,7 @@ $$
 For `a = 1`, `b = 1`, `c = 1`:
 
 $$
-\Delta=1-4=-3
+Delta=1-4=-3
 $$
 
 The equation has two complex conjugate roots:
@@ -479,7 +479,7 @@ The application uses a subVI to calculate the discriminant and performs addition
 Discriminant:
 
 $$
-\Delta=b^2-4ac
+Delta=b^2-4ac
 $$
 
 Vieta's formulas:
